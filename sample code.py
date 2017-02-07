@@ -17,3 +17,6 @@ def second_func_by_second_user():
 def modify_by_master():
     print modify_by_master
 
+def modify_by_master2():
+    print modify_by_master
+
