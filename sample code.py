@@ -20,3 +20,7 @@ def modify_by_master():
 def modify_by_feature():
     print modify_by_feature
 
+def modify_by_master2():
+    print modify_by_master
+
+
