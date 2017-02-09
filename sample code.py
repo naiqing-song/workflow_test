@@ -27,4 +27,7 @@ def merge_commit_1
 
 def merge_commit_2
 
+squash_merge1
+
+squash_merge2
 
