@@ -22,5 +22,9 @@ def modify_by_feature():
 
 def modify_by_master2():
     print modify_by_master
+    
+def merge_commit_1
+
+def merge_commit_2
 
 
