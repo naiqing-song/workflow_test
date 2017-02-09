@@ -25,4 +25,6 @@ def modify_by_master2():
     
 def merge_commit_1
 
+def merge_commit_2
+
 
