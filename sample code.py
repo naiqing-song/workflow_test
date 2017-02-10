@@ -34,4 +34,3 @@ squash_merge2
 rebase1
 
 rebase2
-
