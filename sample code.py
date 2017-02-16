@@ -34,3 +34,5 @@ squash_merge2
 rebase1
 
 rebase2
+
+make new change
